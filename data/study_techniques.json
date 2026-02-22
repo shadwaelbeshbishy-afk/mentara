@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Pomodoro Technique",
+        "link": "https://youtu.be/mNBmG24djoY?si=Ap6F_-qhjDoTeWGz",
+        "why_it_works": "Helps maintain high focus levels and prevents mental fatigue through scheduled breaks."
+    },
+    {
+        "name": "Feynman Technique",
+        "link": "https://youtu.be/tkm0TNFzIeg?si=3bc4ZsNhl7R7iMvG",
+        "why_it_works": "Explaining a concept in simple terms identifies gaps in your own understanding.",
+        "best_subjects": [
+            "Science",
+            "Complex Theory",
+            "Law",
+            "History"
+        ]
+    },
+    {
+        "name": "Active Recall",
+        "link": "https://youtu.be/IyvlgRf7u3Y?si=rD5IeDu063KKoqPG",
+        "why_it_works": "Testing yourself forces the brain to retrieve information, strengthening neural pathways.",
+        "best_subjects": [
+            "Vocabulary",
+            "Medical Terms",
+            "Historical Dates",
+            "Language Learning"
+        ]
+    },
+    {
+        "name": "Spaced Repetition",
+        "link": "https://youtu.be/cVf38y07cfk?si=FRP6spnf-qoyv9sl",
+        "why_it_works": "Reviewing material at increasing intervals prevents forgetting and moves information to long-term memory.",
+        "best_subjects": [
+            "Biology",
+            "Foreign Languages",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Japanese technique",
+        "link": "https://youtu.be/Y4dnlvGBznU?si=VINlF1KAGfJbcELi",
+        "why_it_works": "Forces recall by writing everything remembered, revealing weak points in understanding.",
+        "best_subjects": [
+            "Biology",
+            "History",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Mind Mapping",
+        "why_it_works": "Visually organizing information helps connect ideas and improves comprehension.",
+        "link": "https://youtu.be/xCyjFipytRE?si=fUKCfo4tLFM2lHIF",
+        "best_subjects": [
+            "Biology",
+            "History",
+            "Business Studies"
+        ]
+    },
+    {
+        "name": "Dual Coding",
+        "why_it_works": "Combining visuals with text improves memory retention and understanding.",
+        "link": "https://youtu.be/ZFmKYd_vPQc?si=DGZbec1kOilORXjU",
+        "best_subjects": [
+            "Biology",
+            "Geography",
+            "Engineering"
+        ]
+    },
+    {
+        "name": "SQ3R Method",
+        "why_it_works": "A structured reading approach improves comprehension and recall.",
+        "link": "https://youtu.be/Etv359djp-c?si=g5sU0ZG5UgHH0S23",
+        "best_subjects": [
+            "History",
+            "Literature",
+            "Law",
+            "Social Studies"
+        ]
+    },
+    {
+        "name": "Visualization",
+        "why_it_works": "Creating mental images improves memory and conceptual understanding.",
+        "link": "https://youtu.be/BsEkNunXtkw?si=Dg72QTXPg66S88-2",
+        "best_subjects": [
+            "Biology",
+            "Anatomy",
+            "Geography",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Chunking",
+        "why_it_works": "Breaking information into smaller chunks makes it easier to remember.",
+        "link": "https://youtu.be/hydCdGLAh00?si=8qAb4Ln7fuEMiCRH",
+        "best_subjects": [
+            "Languages",
+            "Mathematics",
+            "Computer Science"
+        ]
+    }
+]

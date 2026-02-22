@@ -1,0 +1,129 @@
+{
+  "vocabulary": [
+    {
+      "word": "Abundant",
+      "definition": "Existing in large quantities; plentiful",
+      "example": "The farm has abundant crops this year."
+    },
+    {
+      "word": "Accurate",
+      "definition": "Correct and free from mistakes",
+      "example": "The scientist gave an accurate report."
+    },
+    {
+      "word": "Adapt",
+      "definition": "To change to fit new conditions",
+      "example": "Animals adapt to their environment."
+    },
+    {
+      "word": "Analyze",
+      "definition": "To examine something carefully in detail",
+      "example": "We need to analyze the results."
+    },
+    {
+      "word": "Benefit",
+      "definition": "Something that helps or improves a situation",
+      "example": "Exercise has many health benefits."
+    },
+    {
+      "word": "Challenge",
+      "definition": "A difficult task or problem",
+      "example": "Learning a new language is a challenge."
+    },
+    {
+      "word": "Communicate",
+      "definition": "To share information or ideas",
+      "example": "People communicate using language."
+    },
+    {
+      "word": "Creative",
+      "definition": "Having the ability to create new ideas",
+      "example": "She is very creative in art."
+    },
+    {
+      "word": "Decision",
+      "definition": "A choice made after thinking",
+      "example": "He made a quick decision."
+    },
+    {
+      "word": "Develop",
+      "definition": "To grow or improve",
+      "example": "The company plans to develop new software."
+    },
+    {
+      "word": "Efficient",
+      "definition": "Working well without wasting time or energy",
+      "example": "This machine is very efficient."
+    },
+    {
+      "word": "Environment",
+      "definition": "The natural world around us",
+      "example": "We must protect the environment."
+    },
+    {
+      "word": "Focus",
+      "definition": "To pay close attention",
+      "example": "Please focus on your work."
+    },
+    {
+      "word": "Improve",
+      "definition": "To make something better",
+      "example": "Practice helps you improve."
+    },
+    {
+      "word": "Independent",
+      "definition": "Able to do things without help",
+      "example": "She is an independent student."
+    },
+    {
+      "word": "Knowledge",
+      "definition": "Information and understanding gained through learning",
+      "example": "Reading increases knowledge."
+    },
+    {
+      "word": "Motivate",
+      "definition": "To encourage someone to act",
+      "example": "Good teachers motivate students."
+    },
+    {
+      "word": "Opportunity",
+      "definition": "A chance to do something",
+      "example": "This job is a great opportunity."
+    },
+    {
+      "word": "Organize",
+      "definition": "To arrange things neatly",
+      "example": "She organized her desk."
+    },
+    {
+      "word": "Patient",
+      "definition": "Able to wait calmly",
+      "example": "You must be patient while learning."
+    },
+    {
+      "word": "Responsible",
+      "definition": "Having a duty to take care of something",
+      "example": "He is responsible for the project."
+    },
+    {
+      "word": "Skill",
+      "definition": "An ability to do something well",
+      "example": "Writing is an important skill."
+    },
+    {
+      "word": "Solution",
+      "definition": "An answer to a problem",
+      "example": "They found a solution quickly."
+    },
+    {
+      "word": "Support",
+      "definition": "To help or encourage",
+      "example": "Friends support each other."
+    },
+    {
+      "word": "Success",
+      "definition": "Achieving a goal or aim",
+      "example": "Hard work leads to success."
+    }
+  ]
+}
