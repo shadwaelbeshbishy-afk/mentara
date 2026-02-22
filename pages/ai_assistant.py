@@ -73,7 +73,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-genai.configure(api_key=st.secrets["AIzaSyDWJYtLjhZB-5Y7X0Umtg061NumYhSfzi0"])
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 model = genai.GenerativeModel('gemini-2.5-flash')
 if "messages" not in st.session_state:
     st.session_state.messages = []
